@@ -24,4 +24,6 @@ Ao desenvolver a aplicação foi possível aplicar os seguintes conhecimentos ob
 
 ## Demonstração
 
-<img src="./assets/ChuvaMeteoros.mp4">
+<video controls="controls" autoplay="autoplay">
+<source src="./assets/ChuvaMeteoros.mp4" type="video/mp4">
+</video>

@@ -24,6 +24,4 @@ Ao desenvolver a aplicação foi possível aplicar os seguintes conhecimentos ob
 
 ## Demonstração
 
-<video controls="controls" autoplay="autoplay">
-<source src="./assets/ChuvaMeteoros.mp4" type="video/mp4">
-</video>
+https://github.com/tigocode/chuvaDeMeteoro/assets/11928133/6003c166-0cf6-4756-8674-0aec2dd51d0d
